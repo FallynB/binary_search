@@ -4,6 +4,7 @@
 
 You will implement several variations of the binary search algorithm.
 
+
 **Learning Objectives:**
 
 1. understand the binary search algorithm
